@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Realism!", "More Realism!.csproj", "{F5738E82-001A-4D57-BE0B-721C38A85BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5738E82-001A-4D57-BE0B-721C38A85BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5738E82-001A-4D57-BE0B-721C38A85BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5738E82-001A-4D57-BE0B-721C38A85BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5738E82-001A-4D57-BE0B-721C38A85BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C88B441-3368-4479-8BB3-50DC31C120AD}
+	EndGlobalSection
+EndGlobal
